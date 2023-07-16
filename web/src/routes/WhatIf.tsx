@@ -1,1 +1,3 @@
-export const WhatIf = (<h1>What-if Analysis</h1>)
+import {Heading} from "../components";
+
+export const WhatIf = () => (<Heading level="1">What-if Analysis</Heading>)

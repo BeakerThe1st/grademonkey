@@ -1,1 +1,3 @@
-export const Configuration = (<h1>Configuration</h1>);
+import {Heading} from "../components";
+
+export const Configuration = () => (<Heading level="1">Configuration</Heading>);
