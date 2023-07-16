@@ -1,0 +1,1 @@
+export const WhatIf = (<h1>What-if Analysis</h1>)

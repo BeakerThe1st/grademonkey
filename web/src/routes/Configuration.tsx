@@ -1,0 +1,1 @@
+export const Configuration = (<h1>Configuration</h1>);

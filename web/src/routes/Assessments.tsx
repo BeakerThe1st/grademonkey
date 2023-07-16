@@ -1,0 +1,1 @@
+export const Assessments = (<h1>Assessments</h1>)
